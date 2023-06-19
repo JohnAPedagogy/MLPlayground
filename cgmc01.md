@@ -1,6 +1,6 @@
 ## Lesson 1 - Introduction
 
-Welcome the Chat GPT master class. In this class you will learn what chat GPT is on a high-level, also, how it works, and how you can use it to build a business. The live coding playground can be found [here](https://mybinder.org/v2/gh/JohnAPedagogy/playground/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FJohnAPedagogy%2Fplayground%2Fblob%2Fmain%2Fpython%2Fmpe%2Fcgmc00.ipynb). If this sounds interesting, let's dig in.
+Welcome the Chat GPT master class. In this class you will learn what chat GPT is on a high-level, also, how it works, and how you can use it to build a business.  If this sounds interesting, let's dig in.
 
 ### 1.1 What is Chat GPT?
 
