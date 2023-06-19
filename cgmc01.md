@@ -481,6 +481,7 @@ As you can see this is a lot of code, which is quite impressive for chat GPT.  D
 
 The most important nuanced aspect of the problem which I did not expect chat GPT to figure out was the exact model-view pattern to follow.  There are several approaches to this and each approach would modify the code significantly.  This is probably one of the reasons why the code did not compile.  Once again to emphasise the nature of Chat GPT is to guide it to the correct solution, therefore, prompt iteration would probably by default become a part of any advanced Chat GPT workflow.  It is therefore the best practice to guide Chat GPT to the correct response.  Furthermore, there is no guarantee that asking chat GPT to correct compilation error will guarantee it to produce the correct answer.  In this particular case some programming experience with C++ nuances was  required to get the program to compile.  In this instance, it was related to using copy constructors and the assignment operator which chatGPT provided implementations for with some post response corrections related to not having the previous context or not interpreting it correctly.  Here is the program when it finally ran.
 ![cgledger](./images/cgledger.png)
+
 Figure 3.1. Ledger Manager produced by Chat GPT
 
 Not too bad.  Although the program was logically ill-functioning. The only thing that worked was the ability to view and add records.  Even the records being added had additional sporadic data being inserted in addition to the expected row.   
