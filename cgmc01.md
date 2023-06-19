@@ -106,7 +106,7 @@ Corrected Prompt: "Write a step-by-step guide on how to use a hammer to hang a p
 The corrected prompt is less ambiguous because it specifies a particular task (hanging a picture frame) and provides a specific goal, which will help the model to generate a more focused response.
 
 
-### The Ledger Manager program
+### 3.1 The Ledger Manager program
 In this lesson, we promised to use Chat GPT to implement an expense manager.   So in this lesson, we begin the first part of that program which is a ledger manager program.
 
 Some people describe chat GPT as a very knowledgeable 10 year old.  While initially, I was really impressed with Chat GPT's capabilities.  I tend to agree that though quite knowledgeable, Chat GPT still requires guidance and doesn't always gives exactly correct answers.  As such, when prompt engineers refer to the use of iteration as a method to refine Chat GPT's responses, this can be likened to when a child is guided to the correct answer when interacting with them on a problem.  With Chat GPT, especially in this context of being used for programming, some users describe Chat GPT as a junior developer, where it can write correct programs but does not always take into consideration the pragmatics and architectural patterns a senior developer may consider when working on a problem.   I certainly found this to be the case.  In the first instance, the quickest limitation on ChatGPT3+ is the amount of tokens it can process and produce.  So while, chat GPT can write some programs it is worth bearing in mind that it  may not be able to complete an entire project.  So it bears upon the engineer to design how ChatGPT assists with program writing.  For me as an aspiring solution architect, I am especially enjoying using Chat GPT to test drive the process of breaking down a solution to manageable chunks for more Junior developers which is the role of Chat GPT to engineer.  
@@ -487,7 +487,7 @@ Not too bad.  Although the program was logically ill-functioning. The only thing
 
 Even with the reduced performance of the application it has served two important functions.  It has provided boiler plate code to build on, a user interface to work with.  This two as provided one of the most important tools in the software industry a rapid prototype.  Note that this rapid prototype was quite intentional.  You may have observed that the prompt did not ask chat GPT to build the entire model but only one of the entities, that is, the ledger entity.  This was intentional.  The ledger entity captures the transactional component of the design and forms the central entity of all the other entities.  It is always strategic in software rapid prototyping to start from the core and build around the core in short iterations.  Note that short iterations in rapid prototyping is a different concept from iterating in prompt engineering.  Nevertheless they seem to work well together so why not?
 
-Summary
+### 3.2 Summary
 
 In today's class we have used prompt engineering iterations to refine the prompt response.  We have seen different strategies to iterations that include framing the original prompt in a different way or providing more focused additional prompt based on the previous prompts in a conversational style chat.
 
