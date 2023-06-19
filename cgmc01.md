@@ -10,7 +10,7 @@ Chat GPT is a special class of chat bots that has been trained on a very large b
 
 ### 1.2 Chat GPT Uses
 
-Enough of the technical details. Let's dive into using Chat GPT. According to Andrew NG in the deeplearning.ai prompt engineering [course](https://learn.deeplearning.ai/chatgpt-prompt-eng/), where a lot of the material in this master class is drawn from, chat GPT excels in the following areas:
+Enough of the technical details. Let's dive into using Chat GPT. According to Andrew NG in the deeplearning.ai prompt engineering [course](https://learn.deeplearning.ai/chatgpt-prompt-eng/), where this master class draws inspiration from, chat GPT excels in the following areas:
 
 - Summarising
 - Inferring
